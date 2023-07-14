@@ -1,10 +1,10 @@
 # prefix,country_code,region_code,city,postal
 2a05:dfc1:5a01::/48,MO,CN-MO,Macau,999078
 2a05:dfc1:5a02::/48,KP,KP-01,Pyongyang,999093
-2a05:dfc1:5a03::/48,HK,CN-HK,, 香港
-2a05:dfc1:5a04::/48,TW,TW-CHA,Changhua,50044 台湾
-2a05:dfc1:5a05::/48,BN,BN-BE,Belait,KA1131 文莱
-2a05:dfc1:5a06::/48,JP,JP-28,Hyogo,651-0056 日本
-2a05:dfc1:5a07::/48,EG,EG-DK,Dakahlia, 埃及
-2a05:dfc1:5a08::/48,MM,MM-07,Ayeyarwady, 缅甸
-2a05:dfc1:5a09::/48,TL,TL-AL,Aileu, 东帝
+2a05:dfc1:5a03::/48,HK,CN-HK,,
+2a05:dfc1:5a04::/48,TW,TW-CHA,Changhua,50044
+2a05:dfc1:5a05::/48,BN,BN-BE,Belait,KA1131
+2a05:dfc1:5a06::/48,JP,JP-28,Hyogo,651-0056
+2a05:dfc1:5a07::/48,EG,EG-DK,Dakahlia,
+2a05:dfc1:5a08::/48,MM,MM-07,Ayeyarwady,
+2a05:dfc1:5a09::/48,TL,TL-AL,Aileu,
