@@ -1,7 +1,7 @@
 # prefix,country_code,region_code,city,postal
-2a05:dfc1:5a01::/48,MO,CN-MO,Macau,999078
+2a05:dfc1:5a01::/48,MO,,,
 2a05:dfc1:5a02::/48,KP,KP-01,Pyongyang,999093
-2a05:dfc1:5a03::/48,HK,CN-HK,,
+2a05:dfc1:5a03::/48,HK,,,
 2a05:dfc1:5a04::/48,TW,TW-CHA,Changhua,50044
 2a05:dfc1:5a05::/48,BN,BN-BE,Belait,KA1131
 2a05:dfc1:5a06::/48,JP,JP-28,Hyogo,651-0056
