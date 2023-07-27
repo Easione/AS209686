@@ -1,44 +1,45 @@
 # prefix,country_code,region_code,city,postal
+2a05:dfc1:5a00::/40,MO,,,
 2a05:dfc1:5a01::/48,MO,,,
 2a05:dfc1:5a02::/48,KP,KP-01,Pyongyang,999093
-2a05:dfc1:5a03::/48,HK,,,
+2a05:dfc1:5a03::/48,HK,HK-NIS,Yung Shue Wan,
 2a05:dfc1:5a04::/48,TW,TW-CHA,Changhua,50044
 2a05:dfc1:5a05::/48,BN,BN-BE,Belait,KA1131
 2a05:dfc1:5a06::/48,JP,JP-28,Hyogo,651-0056
 2a05:dfc1:5a07::/48,EG,EG-DK,Dakahlia,
 2a05:dfc1:5a08::/48,MM,MM-07,Ayeyarwady,
 2a05:dfc1:5a09::/48,TL,TL-AL,Aileu,
-2a05:dfc1:5a0a::/48,AC,,,
-2a05:dfc1:5a0b::/48,AD,,,
-2a05:dfc1:5a0c::/48,AE,,,
-2a05:dfc1:5a0d::/48,AF,,,
-2a05:dfc1:5a0e::/48,AG,,,
-2a05:dfc1:5a0f::/48,AI,,,
-2a05:dfc1:5a10::/48,AL,,,
-2a05:dfc1:5a11::/48,AM,,,
-2a05:dfc1:5a12::/48,AO,,,
-2a05:dfc1:5a13::/48,AQ,,,
-2a05:dfc1:5a14::/48,AR,,,
-2a05:dfc1:5a15::/48,AS,,,
-2a05:dfc1:5a16::/48,AT,,,
-2a05:dfc1:5a17::/48,AU,,,
-2a05:dfc1:5a18::/48,AW,,,
-2a05:dfc1:5a19::/48,AX,,,
-2a05:dfc1:5a1a::/48,AZ,,,
-2a05:dfc1:5a1b::/48,BA,,,
-2a05:dfc1:5a1c::/48,BB,,,
-2a05:dfc1:5a1d::/48,BD,,,
-2a05:dfc1:5a1e::/48,BE,,,
-2a05:dfc1:5a1f::/48,BF,,,
-2a05:dfc1:5a20::/48,BG,,,
-2a05:dfc1:5a21::/48,BH,,,
-2a05:dfc1:5a22::/48,BI,,,
-2a05:dfc1:5a23::/48,BJ,,,
-2a05:dfc1:5a24::/48,BL,,,
-2a05:dfc1:5a25::/48,BM,,,
-2a05:dfc1:5a26::/48,BO,,,
-2a05:dfc1:5a27::/48,BQ,,,
-2a05:dfc1:5a28::/48,BR,,,
+2a05:dfc1:5a0a::/48,AC,HK-NIS,,
+2a05:dfc1:5a0b::/48,AD,AD-07,Santa Coloma,
+2a05:dfc1:5a0c::/48,AE,AE-UQ,Umm Al Quwain City,
+2a05:dfc1:5a0d::/48,AF,AF-BAL,Mazari Sharif,1701
+2a05:dfc1:5a0e::/48,AG,AG-04,St John's,
+2a05:dfc1:5a0f::/48,AI,,The Valley,SE7 8BL
+2a05:dfc1:5a10::/48,AL,AL-06,Pogradec,7301
+2a05:dfc1:5a11::/48,AM,AM-VD,Yeghegnadzor,3601
+2a05:dfc1:5a12::/48,AO,AO-LSU,Saurimo,
+2a05:dfc1:5a13::/48,AQ,,McMurdo Station,
+2a05:dfc1:5a14::/48,AR,AR-B,Zelaya,
+2a05:dfc1:5a15::/48,AS,AS-W,Vaitogi,
+2a05:dfc1:5a16::/48,AT,AT-3,Irenental,3013
+2a05:dfc1:5a17::/48,AU,AU-SA,Yunta,5440
+2a05:dfc1:5a18::/48,AW,,San Nicolas,
+2a05:dfc1:5a19::/48,AX,,Vardoe,9950
+2a05:dfc1:5a1a::/48,AZ,AZ-NX,Nakhchivan,
+2a05:dfc1:5a1b::/48,BA,BA-SRP,Zvornik,75400
+2a05:dfc1:5a1c::/48,BB,BB-01,Worthing,
+2a05:dfc1:5a1d::/48,BD,BD-E,Ullapara,
+2a05:dfc1:5a1e::/48,BE,BE-VLG,Zwijndrecht,
+2a05:dfc1:5a1f::/48,BF,BF-04,Tenkodogo,
+2a05:dfc1:5a20::/48,BG,BG-03,Beloslav,9178
+2a05:dfc1:5a21::/48,BH,BH-13,Tubli,4808
+2a05:dfc1:5a22::/48,BI,BI-MA,Mabanda,
+2a05:dfc1:5a23::/48,BJ,BJ-CO,Savalou,
+2a05:dfc1:5a24::/48,BL,,Gustavia,97133
+2a05:dfc1:5a25::/48,BM,BM-HA,Sunnyside,
+2a05:dfc1:5a26::/48,BO,BO-T,Yacuiba,
+2a05:dfc1:5a27::/48,BQ,BQ-SA,Bottom,
+2a05:dfc1:5a28::/48,BR,BR-PB,Zabele,
 2a05:dfc1:5a29::/48,BS,,,
 2a05:dfc1:5a2a::/48,BT,,,
 2a05:dfc1:5a2b::/48,BV,,,
